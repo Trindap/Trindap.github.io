@@ -1,5 +1,5 @@
 body {
-	background: #FAEBD7 url('../images/vintage-concrete.png');
+	background: #FAEBD7 url('../images/OTGW.png');
 	color: #333;
 }
 
@@ -8,7 +8,7 @@ a {
 	color: #333;
 }
 
-a:hover { color: Tomato; }
+a:hover { color: orange; }
 
 header, nav, main, footer {
 	width: 80%;
@@ -18,7 +18,7 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
-	background-color: #000;
+	background-color: #1a0d00;
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
