@@ -1,5 +1,5 @@
 body {
-	background: #FAEBD7 url('../images/OTGW.png');
+	background: #FAEBD7 url('../images/chalkboard.jpg');
 	color: #333;
 }
 
@@ -19,7 +19,7 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
-	background-color: #000;
+	background: #000 url('../images/ringw.png') 10px;
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
