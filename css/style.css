@@ -19,7 +19,8 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
-	background: #000 url('../images/ringw.png') 10px;
+	background-image: url('../images/ringw.png') centred 100px;
+	background: #000; 
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
