@@ -1,5 +1,7 @@
 body {
-	background: #FAEBD7 url('../images/chalkboard.jpg');
+	background-image:url('../images/pattern.png');
+	background-size:100%;
+ 
 	color: #333;
 }
 
@@ -14,13 +16,14 @@ header, nav, main, footer {
 	font-family:'Special Elite', serif;
 	width: 80%;
 	margin: auto;
+
 }
 
 
 /* Header styles */
 header { 
 	background-image: url('../images/ringw.png') centred 100px;
-	background: #000; 
+	background-color: #000; 
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
@@ -68,6 +71,7 @@ aside {
 
 /* Footer styles */
 footer { 
+	background: #FAEBD7 url('../images/chalkboard.jpg');
 	background-color: #000;
 	color: white;
 	text-align: center;
